@@ -1,0 +1,25 @@
+@import "tailwindcss";
+button{
+  cursor: pointer;
+}
+
+
+.Toastify__toast--success {
+  background-color: rgb(242, 242, 133) !important;
+  color: rgb(31, 30, 30) !important;
+}
+
+.Toastify__toast--error {
+  background-color: #f44336 !important; 
+  color: white !important;
+}
+
+.Toastify__toast--info {
+  background-color: #2196f3 !important; 
+  color: white !important;
+}
+
+.Toastify__toast--warning {
+  background-color: #a47e02 !important;
+  color: white !important;
+}
