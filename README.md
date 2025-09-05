@@ -69,8 +69,7 @@ frontend/
 
 ⚙️ Installation
 1. Clone the Repository
-git clone https://github.com/your-username/lead-management-system.git
-cd lead-management-system
+git clone https://github.com/ankitjha412/leaddesk
 
 2. Backend Setup
 cd backend
